@@ -1,4 +1,4 @@
-# Online Feedback System (MERN)
+# Online Feedback System (MERN Stack)
 
 Students submit feedback for faculty; faculty view and search it by student name.
 Stack: MongoDB · Express.js · React (Vite) · Node.js · JWT auth · Glassmorphism blue UI.
